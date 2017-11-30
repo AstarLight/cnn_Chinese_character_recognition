@@ -1,0 +1,9 @@
+[submodule "docker/cpu"]
+	path = docker/cpu
+	url = https://github.com/JinpengLI/deep_ocr_cpu_docker.git
+[submodule "trained_models"]
+	path = data/trained_models
+	url = https://github.com/JinpengLI/deep_ocr_trained_models.git
+[submodule "data/fonts"]
+	path = data/fonts
+	url = https://github.com/JinpengLI/deep_ocr_fonts.git
